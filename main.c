@@ -79,9 +79,6 @@ int main(){
     tambah(7);
     tambah(11);
     tambah(13);
-    tambah(14);
-    tambah(6);
-    
 
     printf("\nTampilan tanpa cermin.\n");
     preOrder(root);
